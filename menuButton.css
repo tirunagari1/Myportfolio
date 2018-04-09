@@ -1,0 +1,40 @@
+.tablink {
+    background-color: #555;
+    color: black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.tablink:hover {
+    background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+    color: black;
+    display: none;
+    padding: 100px;
+    height: 100%;
+    margin-left: 300px;
+    font-size: large;
+}
+
+#menu{
+    height: 60px;
+    background-color:#666;
+}
+.menuButtons{
+    scroll-padding-inline: 30px;
+
+}
+#Contact li{
+    list-style-type: none;
+    text-align: center;
+    font-size: xx-large;
+
+}
